@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T13:26:51.936Z",
+      "notes": "Beka lox\n",
+      "position": {
+        "lat": "39.98672215736636",
+        "lng": "-0.03948211669921876"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Sieradz",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-01-02T13:27:04.790Z",
+      "notes": "",
+      "position": {
+        "lat": "51.56341232867588",
+        "lng": "18.720703125000004"
+      },
+      "id": 2
+    }
+  ]
+}
